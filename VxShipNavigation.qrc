@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/CVxDisplayToolBar">
+        <file>Resources/areaSelect.png</file>
+        <file>Resources/big.png</file>
+        <file>Resources/compute.png</file>
+        <file>Resources/mark.png</file>
+        <file>Resources/move.png</file>
+        <file>Resources/ship.png</file>
+        <file>Resources/shipCenter.png</file>
+        <file>Resources/small.png</file>
+    </qresource>
+</RCC>
